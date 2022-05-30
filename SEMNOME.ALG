@@ -32,6 +32,13 @@ inicio
    retorne divisao
 fimfuncao
 inicio
+funcao f_multiplicacao(n1,n2:inteiro) : real
+var
+   multiplicacao : real
+inicio
+   multiplicacao <- n1*n2
+   retorne multiplicacao
+fimfuncao
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
 
