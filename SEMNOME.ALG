@@ -40,6 +40,16 @@ inicio
    retorne multiplicacao
 fimfuncao
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Informe o valor do primeiro numero")
+   leia(n1)
+   escreval("Informe o valor do segundo numero")
+   leia(n2)
+   escreval ("O valor da divisao foi ",f_divisao(n1,n2) )
+   escreval ("O valor da soma foi ",f_soma(n1,n2) )
+   escreval ("O valor da multiplicação foi ",f_multiplicacao(n1,n2) )
+   escreval ("O valor da subtração foi ",f_subtracao(n1,n2) )
 
 
 Fimalgoritmo
+
+
