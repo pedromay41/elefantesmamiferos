@@ -23,7 +23,15 @@ inicio
    subtracao <- n1 - n2
    retorne subtracao
 fimfuncao
-
+inicio	
+funcao f_divisao(n1,n2:inteiro) : real
+var
+   divisao : real
+inicio
+   divisao <- n1/n2
+   retorne divisao
+fimfuncao
+inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
 
