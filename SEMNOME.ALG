@@ -16,6 +16,14 @@ Inicio
 fimfuncao
 
 inicio
+funcao f_subtracao(n1,n2:inteiro) : real
+var
+   subtracao : real
+inicio
+   subtracao <- n1 - n2
+   retorne subtracao
+fimfuncao
+
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 
 
